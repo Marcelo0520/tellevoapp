@@ -1,2 +1,11 @@
 // For information on how to create your own theme, please see:
 // http://ionicframework.com/docs/theming/
+body {
+    font-family: 'Merriweather', serif;
+}
+
+:root{
+    --titulo:#FFB800;
+    --fondos: #FFFFFF;
+    --textos: #1A1A1A;
+}
